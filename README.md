@@ -47,6 +47,22 @@ PathoNectics combines the power of computational pathology, artificial intellige
 | **Image Management** | Whole Slide Imaging (WSI), Annotation Tools, 3D Image Viewer        |
 | **Documentation**    | In-app digital manuals, user guides, and technical support systems  |
 
+
+![Python](https://img.shields.io/badge/Python-Code-blue)
+![Java](https://img.shields.io/badge/Java-Backend-orange)
+![HTML](https://img.shields.io/badge/HTML-Frontend-lightblue)
+![Framer](https://img.shields.io/badge/Framer-UI%2FUX-black)
+![MySQL](https://img.shields.io/badge/MySQL-Database-brightgreen)
+![Cloud](https://img.shields.io/badge/Cloud-HybridArchitecture-9cf)
+![AI](https://img.shields.io/badge/AI--ML-CustomModels-purple)
+![Security](https://img.shields.io/badge/Security-2FA%2C%20Encryption-red)
+![DICOM](https://img.shields.io/badge/DICOM-Medical%20Standard-blueviolet)
+![OME](https://img.shields.io/badge/OME-ImageMetadata-lightgrey)
+![LIS](https://img.shields.io/badge/LIS-Integration-darkgreen)
+![EMR](https://img.shields.io/badge/EMR-Integration-teal)
+![WSI](https://img.shields.io/badge/WSI-WholeSlideImage-ff69b4)
+![Docs](https://img.shields.io/badge/Docs-Manuals%20%2F%20Support-yellow)
+
 ---
 
 ## 💾 Data Storage & Management
